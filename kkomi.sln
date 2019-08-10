@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29201.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "kkomi", "kkomi.csproj", "{2AE3E42A-E535-4365-B51A-05101A8FD68F}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "꼬미 1.0", "..\꼬미 1.0\꼬미 1.0.vdproj", "{7D9577A9-F5B7-4DBE-9BBE-EB4B85E89FC8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2AE3E42A-E535-4365-B51A-05101A8FD68F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2AE3E42A-E535-4365-B51A-05101A8FD68F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2AE3E42A-E535-4365-B51A-05101A8FD68F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2AE3E42A-E535-4365-B51A-05101A8FD68F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7D9577A9-F5B7-4DBE-9BBE-EB4B85E89FC8}.Debug|Any CPU.ActiveCfg = Debug
+		{7D9577A9-F5B7-4DBE-9BBE-EB4B85E89FC8}.Release|Any CPU.ActiveCfg = Release
+		{7D9577A9-F5B7-4DBE-9BBE-EB4B85E89FC8}.Release|Any CPU.Build.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C717F665-2935-49E0-8A19-64934ECF96E4}
+	EndGlobalSection
+EndGlobal
